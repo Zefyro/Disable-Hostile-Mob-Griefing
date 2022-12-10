@@ -1,0 +1,8 @@
+{
+    "condition": "entity_properties",
+    "entity": "this",
+    "predicate": {
+        "type": "area_effect_cloud",
+        "nbt": "{Effects:[{Id:27}]}"
+    }
+}

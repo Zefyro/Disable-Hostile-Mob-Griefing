@@ -1,0 +1,1 @@
+execute as @e[type=fireball,tag=!dhmg.modified] run function dhmg:ghast/modify

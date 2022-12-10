@@ -1,0 +1,1 @@
+schedule function dhmg:tick 1t
